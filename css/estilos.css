@@ -1,0 +1,17 @@
+
+body{
+  background-color:#DEF5BB;
+}
+#c1 span,.negrita{
+  font-weight: bold;
+}
+#c2{
+  position:absolute;
+  let:0px;
+}
+.borde{
+  border:2px solid blue;
+}
+img{
+  width: 30%;
+}
